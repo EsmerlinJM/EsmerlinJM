@@ -17,7 +17,7 @@
       </td>
       <td width="25%" align="center">
         <span>Python</span><br><br><br>
-        <img height="64px" src="https://www.python.org/static/community_logos/python-logo-generic.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
       </td>
       <td width="25%" align="center">
         <span>Git</span><br><br><br>
