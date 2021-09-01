@@ -6,7 +6,7 @@
 [![website](https://img.shields.io/badge/PortfolioWebsite-EsmerlinJM-2648ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://esmerlinjm.github.io/)
 
 
-**Currently working as:** Software Developer at <a href="https://optic.gob.do/" target="_blank"><b>OPTIC</b>.</a>
+**Currently working as:** Software Developer at <a href="https://ogtic.gob.do/" target="_blank"><b>OGTIC</b>.</a>
 
 ## 𝗠𝘆 Tech Stack
 <table>
