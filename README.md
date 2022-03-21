@@ -5,15 +5,14 @@
 
 Hi i'm an Back-end Developer with over 4 years bringing forth expertise in design, installation, testing and maintenance of RESTful API's Micro-services.
 
-<table><td width="80%">  
+
   
       - 🏢 Currently working as: Backend Developer at OGTIC.
       - 🌱 Learning DevOps/SRE Path.
       - 📚 Good knowledge of new technologies in general.
       - 🔍 Likes learn everyday.
 	
-</td>
-</table>
+
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
