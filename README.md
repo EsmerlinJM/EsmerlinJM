@@ -17,5 +17,5 @@ Hi i'm an Back-end Developer with over 4 years bringing forth expertise in desig
 
 
 <a href="https://github.com/EsmerlinJM">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=EsmerlinJM&show_icons=true&theme=light&line_height=27" alt="Esmerlin's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=EsmerlinJM&count_private=true&show_icons=true&theme=light&line_height=27" alt="Esmerlin's github stats"/>
 </a>
