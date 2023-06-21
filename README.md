@@ -12,10 +12,3 @@ Hi i'm an Back-end Developer with over 4 years bringing forth expertise in desig
       - 📚 Good knowledge of new technologies in general.
       - 🔍 Likes learn everyday.
 	
-
-
-
-
-<a href="https://github.com/EsmerlinJM">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=EsmerlinJM&count_private=true&show_icons=true&theme=light&line_height=27" alt="Esmerlin's github stats"/>
-</a>
