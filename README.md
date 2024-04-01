@@ -3,7 +3,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esmerlin-joel-mieses-18058814a/)
 <!-- [![website](https://img.shields.io/badge/PortfolioWebsite-EsmerlinJM-2648ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://esmerlinjm.github.io/) -->
 
-Heya, I'm a Back-end Developer with over four years of experience, showcasing proficiency in the conceptualization, implementation, testing, and upkeep of RESTful APIs and Microservices.
+Heya, I'm a Software Engineer with over four years of experience, showcasing proficiency in the conceptualization, implementation, testing, and upkeep of RESTful APIs and Microservices.
   
       - 🏢 Current Professional Engagement: Employed as a Backend Developer at OGTIC.
       - 🌱 Continuous Professional Development: Actively pursuing the DevOps/SRE Path..
