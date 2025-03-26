@@ -5,7 +5,7 @@
 
 Heya, I'm a Software Engineer with over four years of experience, showcasing proficiency in the conceptualization, implementation, testing, and upkeep of RESTful APIs and Microservices.
   
-      - 🏢 Current Professional Engagement: Employed as a Backend Developer at OGTIC.
+      - 🏢 Current Professional Engagement: Employed as a Software Engineer at OGTIC.
       - 🌱 Continuous Professional Development: Actively pursuing the DevOps/SRE Path.
       - 📚 Technical Acumen: Possessing a robust understanding of emerging technologies.
       - 🔍 Enthusiastic about acquiring new knowledge on a daily basis.
