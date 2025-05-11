@@ -18,6 +18,10 @@ Heya, I'm a DevOps Engineer at **Devsu**, with over four years of experience del
   <img src="assets/images/cka.png" alt="Certified Kubernetes Administrator" width="120" height="120"/>
 </p>
 
+### Languages and Tools 🛠️
+
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,bash,docker,git,github,githubactions,go,kubernetes,linux,mysql,gradle,nginx,openshift,postgres,py,typescript,redhat,redis,terraform,ansible,ubuntu,vim,vscode)](https://skillicons.dev)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EsmerlinJM&show_icons=true&locale=en" alt="EsmerlinJM" /></p>
 <hr />
 
