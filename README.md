@@ -8,3 +8,17 @@ Heya, I'm a DevOps Engineer at **Devsu**, with over four years of experience del
 - 🔧 **Tech Focus**: CI/CD, Infrastructure as Code, Containers, Kubernetes, Cloud (Azure, AWS), Observability.
 - 🌱 **Continuous Learning**: Passionate about Site Reliability Engineering and platform tooling.
 - 💡 **Mindset**: Automation-first, security-conscious, and growth-oriented.
+
+### Certificates and Badges 🏅
+
+<p align="left">
+  <img src="assets/images/backstage.png" alt="Backstage" width="120" height="120"/>
+  <img src="assets/images/saa.png" alt="Certified AWS Solutions Architect " width="120" height="120"/>
+  <img src="assets/images/ckad.png" alt="Certified Kubernetes Application Developer" width="120" height="120"/>
+  <img src="assets/images/cka.png" alt="Certified Kubernetes Administrator" width="120" height="120"/>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EsmerlinJM&show_icons=true&locale=en" alt="EsmerlinJM" /></p>
+<hr />
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=EsmerlinJM" alt="EsmerlinJM" /></a> </p>
