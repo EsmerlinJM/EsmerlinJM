@@ -25,16 +25,16 @@ I focus on empowering engineering teams through automation, observability, and m
 ### 🏅 Certifications
 
 <p align="left">
-  <a href="https://www.credly.com/earner/earned/badge/d4fe7d52-4ad3-4132-9563-fc3de0fa76fe" target="_blank">
+  <a href="https://www.credly.com/badges/d4fe7d52-4ad3-4132-9563-fc3de0fa76fe" target="_blank">
     <img src="assets/images/backstage.png" alt="Backstage Certified" width="120" height="120"/>
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/6d4d280f-5a91-43a4-a4d1-9b23aa86f585" target="_blank">
+  <a href="https://www.credly.com/badges/6d4d280f-5a91-43a4-a4d1-9b23aa86f585" target="_blank">
     <img src="assets/images/saa.png" alt="AWS Solutions Architect Associate" width="120" height="120"/>
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/dd74fe6b-df18-4947-b8de-4e3476693372" target="_blank">
+  <a href="https://www.credly.com/badges/dd74fe6b-df18-4947-b8de-4e3476693372/linked_in_profile" target="_blank">
     <img src="assets/images/ckad.png" alt="CKAD Certified" width="120" height="120"/>
   </a>
-  <a href="https://www.credly.com/earner/earned/badge/7774a36c-d2b7-4bf2-a973-2ff626876d4a" target="_blank">
+  <a href="https://www.credly.com/badges/7774a36c-d2b7-4bf2-a973-2ff626876d4a/linked_in_profile" target="_blank">
     <img src="assets/images/cka.png" alt="CKA Certified" width="120" height="120"/>
   </a>
 </p>
